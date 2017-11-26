@@ -1,7 +1,6 @@
-/******************************************
-*    AUTHOR:         BHUVNESH JAIN        *
-*    INSTITUITION:   BITS PILANI, PILANI  *
-******************************************/
+//Author:Parth Wazurkar
+//isn't iostream too mainstream
+//#include <iostream.h>
 #include <bits/stdc++.h>
 using namespace std;
  
@@ -46,3 +45,4 @@ int main() {
 	// cout<<"Execution time : "<<tick()<<"\n";
 	return 0;
 }
+//isn't my code amazing?
